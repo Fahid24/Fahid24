@@ -10,6 +10,8 @@
 
 <!-- <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2> -->
 
+![Achievement: Code Wizard](https://img.shields.io/badge/Achievement-Code%20Wizard-green?style=for-the-badge&logo=code&logoColor=white)
+![Achievement: Bug Hunter](https://img.shields.io/badge/Achievement-Bug%20Hunter-red?style=for-the-badge&logo=bug&logoColor=white)
 
 
 
