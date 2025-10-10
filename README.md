@@ -52,8 +52,9 @@
 <img src="https://img.shields.io/badge/-Google Chrome-4285F4?logo=Google Chrome&logoColor=white&logoWidth=30" alt="Google Chrome">
 
 
-
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=fahid24)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fahid24&show_icons=true&count_private=true)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=fahid24)
 <!----<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">---->
 <h2> Connect with me  </h2>
 <a style="text-decoration: none; margin:0px 8px" target="_blank" href = 'https://www.linkedin.com/in/fahid-hasan-fuad-a39180235'>
