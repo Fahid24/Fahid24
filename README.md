@@ -1,68 +1,103 @@
-<!-- <h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
- -->
+<h1 align="center">
+  Hello < Developers/ >! 👋
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+</h1>
 
+<h3 align="center">I'm <b>Fahid Hasan Fuad</b> — Software Engineer</h3>
+<h4 align="center">I craft powerful, scalable, and visually engaging digital experiences using modern web technologies.</h4>
+
+---
+
+### 🧠 About Me  
+- 💼 Software Engineer with strong focus on **frontend and backend development**  
+- ⚙️ Experienced in **React.js, Next.js, Node.js, FastAPI, MySQL, and MongoDB**  
+- 🧩 Passionate about building **scalable and user-friendly web solutions**  
+- 💡 Currently learning **mobile app development** for iOS & Android  
+- 🧠 Interested in **AI integration**, API systems, and performance-driven design  
+- 🎯 Always striving to write clean, efficient, and maintainable code  
+
+---
+
+### 🏅 Achievements  
+![Code Wizard](https://img.shields.io/badge/Achievement-Code%20Wizard-0abf53?style=for-the-badge&logo=code&logoColor=white)
+![Bug Hunter](https://img.shields.io/badge/Achievement-Bug%20Hunter-e53935?style=for-the-badge&logo=bug&logoColor=white)
+![Innovation Driven](https://img.shields.io/badge/Achievement-Innovation%20Driven-1c4e80?style=for-the-badge&logo=rocket&logoColor=white)
+
+---
+
+### 💻 Frontend Expertise  
+<p align="center">
+<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white" />
+<img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white" />
+<img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=TailwindCSS&logoColor=white" />
+<img src="https://img.shields.io/badge/-Material%20UI-007FFF?logo=mui&logoColor=white" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black" />
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=black" />
+<img src="https://img.shields.io/badge/-Next.js-000000?logo=Next.js&logoColor=white" />
 </p>
-<div size='20px'>
- <h1> Hi,</h1>
-  <h2>My name is Fahid Hasan Fuad.</h2>
-</div>
 
-<!-- <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2> -->
+---
 
-![Achievement: Code Wizard](https://img.shields.io/badge/Achievement-Code%20Wizard-green?style=for-the-badge&logo=code&logoColor=white)
-![Achievement: Bug Hunter](https://img.shields.io/badge/Achievement-Bug%20Hunter-red?style=for-the-badge&logo=bug&logoColor=white)
+### ⚙️ Backend & Database  
+<p align="center">
+<img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" />
+</p>
 
+---
 
+### 🧰 Tools & Platforms  
+<p align="center">
+<img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white" />
+<img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white" />
+<img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
+</p>
 
-• <b>Expertise:</b>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&logoWidth=30" alt="HTML5">
-<img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&logoWidth=30" alt="CSS3">
-<img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=white&logoWidth=30" alt="Bootstrap">
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&logoWidth=30" alt="JavaScript">
-<img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=white&logoWidth=30" alt="React">
-<img src="https://img.shields.io/badge/-React Router-CA4245?logo=React Router&logoColor=white&logoWidth=30" alt="React Router">
-<img src="https://img.shields.io/badge/-Next.js-000000?logo=Next.js&logoColor=white&logoWidth=30" alt="Next.js">
-<img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=white&logoWidth=30" alt="Bootstrap">
-<img src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?logo=Tailwind CSS&logoColor=white&logoWidth=30" alt="Tailwind CSS">
-<img src="https://img.shields.io/badge/-Material Design-007FFF?logo=Material Design&logoColor=white&logoWidth=30" alt="Material Design">
-</br>
- 
-• <b>Comfortable:</b> 
-<img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&logoWidth=30" alt="Node.js">
-<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=white&logoWidth=30" alt="MongoDB">
-<img src="https://img.shields.io/badge/-Express-000000?logo=Express&logoColor=white&logoWidth=30" alt="Express">
-<img src="https://img.shields.io/badge/-Payment-000000?logo=Payment&logoColor=white&logoWidth=30" alt="Payment">
-</br>
+---
 
-• <b>Familiar:</b>
-<img src="https://img.shields.io/badge/-NativeScript-3655FF?logo=NativeScript&logoColor=white&logoWidth=30" alt="NativeScript">
-<img src="https://img.shields.io/badge/-React Query-FF4154?logo=React Query&logoColor=white&logoWidth=30" alt="React Query">
-<img src="https://img.shields.io/badge/-React Hook Form-EC5990?logo=React Hook Form&logoColor=white&logoWidth=30" alt="React Hook Form">
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white&logoWidth=30" alt="TypeScript">
-</br>
+### ☁️ Cloud & Deployment  
+<p align="center">
+<img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/-cPanel-FF6C2C?logo=cpanel&logoColor=white" />
+<img src="https://img.shields.io/badge/-Render-0466C8?logo=render&logoColor=white" />
+</p>
 
+---
 
-• <b>Tools:</b>
-<img src="https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white&logoWidth=30" alt="GitHub">
-<img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=Firebase&logoColor=white&logoWidth=30" alt="Firebase">
-<img src="https://img.shields.io/badge/-Netlify-00C7B7?logo=Netlify&logoColor=white&logoWidth=30" alt="Netlify">
-<img src="https://img.shields.io/badge/-Heroku-430098?logo=Heroku&logoColor=white&logoWidth=30" alt="Heroku">
-<img src="https://img.shields.io/badge/-Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white&logoWidth=30" alt="Visual Studio Code">
-<img src="https://img.shields.io/badge/-Google Chrome-4285F4?logo=Google Chrome&logoColor=white&logoWidth=30" alt="Google Chrome">
+### 🏆 GitHub Highlights  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fahid24&theme=onestar&row=1&column=4" alt="GitHub Trophies" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fahid24&show_icons=true&theme=dark&count_private=true&title_color=0ABAB5&icon_color=0ABAB5" height="150px"/>
+  <img src="https://streak-stats.demolab.com?user=fahid24&theme=dark&ring=0ABAB5&fire=0ABAB5&currStreakLabel=0ABAB5" height="150px"/>
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=fahid24)](https://github.com/ryo-ma/github-profile-trophy)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fahid24&show_icons=true&count_private=true)
-![GitHub streak stats](https://streak-stats.demolab.com/?user=fahid24)
-<!----<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">---->
-<h2> Connect with me  </h2>
-<a style="text-decoration: none; margin:0px 8px" target="_blank" href = 'https://www.linkedin.com/in/fahid-hasan-fuad-a39180235'>
-   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?logo=LinkedIn&logoColor=white&logoWidth=30" alt="Linkedin">
-  </a> 
-<a style="text-decoration: none; margin:0px 8px" target="_blank" href = 'https://twitter.com/FahidHasanFuad'> 
-  <img src="https://img.shields.io/badge/-Twitter-00acee?logo=Twitter&logoColor=white&logoWidth=30" alt="Linkedin">
-</a> 
-<a style="text-decoration: none; margin:0px 8px" target="_blank" href = 'https://github.com/Fahid24'> 
-  <img src="https://img.shields.io/badge/-GitHub-222021?logo=GitHub&logoColor=white&logoWidth=30" alt="Linkedin">
-</a> 
+---
+
+### 🤝 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/fahid-hasan-fuad-a39180235" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/FahidHasanFuad" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://github.com/Fahid24" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-000000?logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐️ <i>"Turning complex ideas into meaningful digital experiences — one line of code at a time."</i>
