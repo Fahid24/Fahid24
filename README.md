@@ -4,23 +4,45 @@
 
 <div align="center">
 
-<!-- 🌌 ANIMATED TYPING HEADER -->
+<!-- 🖥️ TERMINAL BOOT SEQUENCE (typed as command-line output) -->
 <a href="https://github.com/Fahid24">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=38&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=950&height=90&lines=Hello+%3C+Developers+%2F+%3E+%F0%9F%91%8B;I'm+Fahid+Hasan+Fuad;Software+Engineer;Building+Scalable+%26+Engaging+Experiences;Frontend+%E2%9A%A1+Backend+%E2%9A%A1+AI+Integration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2200&pause=800&color=00F7FF&center=true&vCenter=true&width=900&height=140&lines=%24+whoami;%3E+Fahid+Hasan+Fuad;%24+.%2Finit+--role+%22Software+Engineer%22;%5B%E2%9C%93%5D+Frontend++%5B%E2%9C%93%5D+Backend++%5B%E2%9C%93%5D+AI;%3E+Booting+portfolio...+done+%E2%9A%A1" alt="Terminal boot sequence" />
 </a>
-
-<!-- ⚡ NEON DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2FF7,100:F222FF&height=3&section=header" width="100%"/>
 
 </div>
 
-<!-- ====================================================== -->
-
+<!-- 🪟 FAKE TERMINAL WINDOW -->
 <div align="center">
 
-<!-- 🚀 HOLOGRAPHIC BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2FF7,100:F222FF&height=210&section=header&text=Fahid%20Hasan%20Fuad&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Software%20Engineer%20%E2%80%A2%20Frontend%20%26%20Backend%20%E2%80%A2%20AI%20Integration&descAlignY=64&descSize=18" width="100%"/>
+```bash
+┌─[ fahid@dev ]─[ ~/portfolio ]
+└──╼ $ cat profile.json
+{
+  "name"      : "Fahid Hasan Fuad",
+  "role"      : "Software Engineer",
+  "status"    : "🟢 Online — Open to Work",
+  "stack"     : ["React", "Next.js", "Node.js", "FastAPI"],
+  "focus"     : "Frontend · Backend · AI Integration",
+  "uptime"    : "Building scalable experiences ⚡"
+}
+┌─[ fahid@dev ]─[ ~/portfolio ]
+└──╼ $ ▮
+```
 
+</div>
+
+<!-- 🎛️ STATUS CHIPS -->
+<div align="center">
+
+[![Visitors](https://komarev.com/ghpvc/?username=Fahid24&style=for-the-badge&color=00F7FF&label=VISITORS)](https://github.com/Fahid24)
+<img src="https://img.shields.io/badge/STATUS-Open_to_Work-7B2FF7?style=for-the-badge&labelColor=0D1117" alt="Status" />
+<img src="https://img.shields.io/badge/FOCUS-Full_Stack_+_AI-F222FF?style=for-the-badge&labelColor=0D1117" alt="Focus" />
+
+</div>
+
+<!-- ⚡ NEON DIVIDER -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2FF7,100:F222FF&height=3&section=header" width="100%"/>
 </div>
 
 <!-- ====================================================== -->
