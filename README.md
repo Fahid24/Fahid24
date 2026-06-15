@@ -158,7 +158,14 @@ const fahid = {
 <div align="center">
 
 <!-- 🐍 SNAKE EATING CONTRIBUTIONS (needs the snake workflow — see SETUP.md) -->
+<!-- 🐍 SNAKE: This animated "snake" requires the GitHub Action from SETUP.md to generate the SVG.
+  If you don't run the workflow the image will 404. Using a reliable fallback below. -->
+<!-- Primary: workflow-generated contribution snake (live). The workflow writes to `output/github-contribution-grid-snake-dark.svg`.
+  Fallback: local animated SVG in `assets/` for viewers before the workflow has run. -->
 <img src="https://raw.githubusercontent.com/Fahid24/Fahid24/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<br/>
+<!-- Fallback shown below when the generated file is not present yet -->
+<img src="assets/contrib-snake.svg" alt="Contributions animation (fallback)" />
 
 <!-- 📈 ACTIVITY GRAPH -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fahid24&theme=react-dark&bg_color=0D1117&color=00F7FF&line=F222FF&point=ffffff&hide_border=true&area=true" width="100%" alt="Activity graph" />
