@@ -1,103 +1,218 @@
-<h1 align="center">
-  Hello < Developers/ >! 👋
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
-</h1>
+<!-- ====================================================== -->
+<!--        FAHID HASAN FUAD · FUTURISTIC GITHUB README       -->
+<!-- ====================================================== -->
 
-<h3 align="center">I'm <b>Fahid Hasan Fuad</b> — Software Engineer</h3>
-<h4 align="center">I craft powerful, scalable, and visually engaging digital experiences using modern web technologies.</h4>
+<div align="center">
 
----
+<!-- 🌌 ANIMATED TYPING HEADER -->
+<a href="https://github.com/Fahid24">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=38&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=950&height=90&lines=Hello+%3C+Developers+%2F+%3E+%F0%9F%91%8B;I'm+Fahid+Hasan+Fuad;Software+Engineer;Building+Scalable+%26+Engaging+Experiences;Frontend+%E2%9A%A1+Backend+%E2%9A%A1+AI+Integration" alt="Typing SVG" />
+</a>
 
-### 🧠 About Me  
-- 💼 Software Engineer with strong focus on **frontend and backend development**  
-- ⚙️ Experienced in **React.js, Next.js, Node.js, FastAPI, MySQL, and MongoDB**  
-- 🧩 Passionate about building **scalable and user-friendly web solutions**  
-- 💡 Currently learning **mobile app development** for iOS & Android  
-- 🧠 Interested in **AI integration**, API systems, and performance-driven design  
-- 🎯 Always striving to write clean, efficient, and maintainable code  
+<!-- ⚡ NEON DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2FF7,100:F222FF&height=3&section=header" width="100%"/>
 
----
+</div>
 
-### 🏅 Achievements  
-![Code Wizard](https://img.shields.io/badge/Achievement-Code%20Wizard-0abf53?style=for-the-badge&logo=code&logoColor=white)
-![Bug Hunter](https://img.shields.io/badge/Achievement-Bug%20Hunter-e53935?style=for-the-badge&logo=bug&logoColor=white)
-![Innovation Driven](https://img.shields.io/badge/Achievement-Innovation%20Driven-1c4e80?style=for-the-badge&logo=rocket&logoColor=white)
+<!-- ====================================================== -->
 
----
+<div align="center">
 
-### 💻 Frontend Expertise  
-<p align="center">
-<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white" />
-<img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white" />
-<img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=TailwindCSS&logoColor=white" />
-<img src="https://img.shields.io/badge/-Material%20UI-007FFF?logo=mui&logoColor=white" />
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black" />
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=black" />
-<img src="https://img.shields.io/badge/-Next.js-000000?logo=Next.js&logoColor=white" />
-</p>
+<!-- 🚀 HOLOGRAPHIC BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F7FF,50:7B2FF7,100:F222FF&height=210&section=header&text=Fahid%20Hasan%20Fuad&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Frontend%20%26%20Backend%20%E2%80%A2%20AI%20Integration&descAlignY=56&descSize=18" width="100%"/>
 
----
+</div>
 
-### ⚙️ Backend & Database  
-<p align="center">
-<img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" />
-</p>
+<!-- ====================================================== -->
 
----
+<h2 align="center">🧠 &nbsp; About Me &nbsp; 🧠</h2>
 
-### 🧰 Tools & Platforms  
-<p align="center">
-<img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white" />
-<img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white" />
-<img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
-</p>
+<div align="center">
 
----
+```ts
+const fahid = {
+    name:        "Fahid Hasan Fuad",
+    role:        "Software Engineer",
+    focus:       ["Frontend Development", "Backend Development"],
+    code:        ["TypeScript", "JavaScript", "Python"],
+    stack:       ["React", "Next.js", "Node.js", "FastAPI", "MySQL", "MongoDB"],
+    learning:    "📱 Mobile App Development (iOS & Android)",
+    interests:   ["AI Integration", "API Systems", "Performance-Driven Design"],
+    mindset:     "Write clean, efficient & maintainable code. ⚡",
+};
+```
 
-### ☁️ Cloud & Deployment  
-<p align="center">
-<img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/-cPanel-FF6C2C?logo=cpanel&logoColor=white" />
-<img src="https://img.shields.io/badge/-Render-0466C8?logo=render&logoColor=white" />
-</p>
+</div>
 
----
+- 💼 **Software Engineer** with a strong focus on **frontend and backend** development
+- ⚙️ Experienced in **React.js, Next.js, Node.js, FastAPI, MySQL, and MongoDB**
+- 🧩 Passionate about building **scalable and user-friendly** web solutions
+- 💡 Currently learning **mobile app development** for iOS & Android
+- 🧠 Interested in **AI integration, API systems, and performance-driven design**
+- 🎯 Always striving to write **clean, efficient, and maintainable** code
 
-### 🏆 GitHub Highlights  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fahid24&theme=onestar&row=1&column=4" alt="GitHub Trophies" />
-</p>
+<!-- ====================================================== -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahid24&show_icons=true&theme=dark&count_private=true&title_color=0ABAB5&icon_color=0ABAB5" height="150px"/>
-  <img src="https://streak-stats.demolab.com?user=fahid24&theme=dark&ring=0ABAB5&fire=0ABAB5&currStreakLabel=0ABAB5" height="150px"/>
-</p>
+<h2 align="center">🏅 &nbsp; Achievements &nbsp; 🏅</h2>
 
----
+<div align="center">
 
-### 🤝 Connect With Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/fahid-hasan-fuad-a39180235" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/FahidHasanFuad" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://github.com/Fahid24" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-000000?logo=github&logoColor=white" />
-  </a>
-</p>
+![Code Wizard](https://img.shields.io/badge/🧙_Code_Wizard-7B2FF7?style=for-the-badge&logoColor=white)
+![Bug Hunter](https://img.shields.io/badge/🐛_Bug_Hunter-F222FF?style=for-the-badge&logoColor=white)
+![Innovation Driven](https://img.shields.io/badge/💡_Innovation_Driven-00F7FF?style=for-the-badge&logoColor=black)
 
----
+</div>
 
-⭐️ <i>"Turning complex ideas into meaningful digital experiences — one line of code at a time."</i>
+<!-- ====================================================== -->
+
+<h2 align="center">🛸 &nbsp; Tech Arsenal &nbsp; 🛸</h2>
+
+<h3 align="center">💻 Frontend Expertise</h3>
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+</div>
+
+<h3 align="center">⚙️ Backend & Database</h3>
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+</div>
+
+<h3 align="center">🧰 Tools & Platforms</h3>
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+
+</div>
+
+<h3 align="center">☁️ Cloud & Deployment</h3>
+<div align="center">
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+
+</div>
+
+<!-- ====================================================== -->
+
+<h2 align="center">📡 &nbsp; GitHub Command Center &nbsp; 📡</h2>
+
+<div align="center">
+
+<!-- ⚡ MAIN STATS CARD -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fahid24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=F222FF&text_color=C9D1D9" alt="Fahid24 stats" />
+
+<!-- 🔥 TOP LANGUAGES -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahid24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&langs_count=8" alt="Fahid24 top languages" />
+
+</div>
+
+<div align="center">
+
+<!-- 🌟 STREAK STATS -->
+<img src="https://streak-stats.demolab.com?user=Fahid24&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=F222FF&currStreakLabel=00F7FF" alt="Fahid24 streak" />
+
+</div>
+
+<!-- ====================================================== -->
+
+<h2 align="center">🪐 &nbsp; Contribution Universe &nbsp; 🪐</h2>
+
+<div align="center">
+
+<!-- 🐍 SNAKE EATING CONTRIBUTIONS (needs the snake workflow — see SETUP.md) -->
+<img src="https://raw.githubusercontent.com/Fahid24/Fahid24/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+<!-- 📈 ACTIVITY GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fahid24&theme=react-dark&bg_color=0D1117&color=00F7FF&line=F222FF&point=ffffff&hide_border=true&area=true" width="100%" alt="Activity graph" />
+
+</div>
+
+<!-- ====================================================== -->
+
+<h2 align="center">🏆 &nbsp; Trophy Showcase &nbsp; 🏆</h2>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Fahid24&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies" />
+
+</div>
+
+<!-- ====================================================== -->
+
+<h2 align="center">🌐 &nbsp; Connect With Me &nbsp; 🌐</h2>
+
+<div align="center">
+
+<a href="https://github.com/Fahid24">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-7B2FF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
+</div>
+
+<!-- ====================================================== -->
+
+<div align="center">
+
+<!-- 👁️ PROFILE VIEWS -->
+<img src="https://komarev.com/ghpvc/?username=Fahid24&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/><br/>
+
+<!-- ✨ QUOTE -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
+
+<br/>
+
+<!-- 🌊 NEON FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F222FF,50:7B2FF7,100:00F7FF&height=120&section=footer&text=Thanks%20for%20visiting!%20%E2%9A%A1&fontColor=ffffff&fontSize=22&fontAlignY=70" width="100%"/>
+
+<sub>⭐ From <a href="https://github.com/Fahid24">Fahid Hasan Fuad</a> — Crafted with futuristic energy.</sub>
+
+</div>
