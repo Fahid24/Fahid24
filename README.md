@@ -1,35 +1,43 @@
-<!-- ===== HERO OPTION 2 · NEON GLASSMORPHISM ===== -->
+<!-- ===== HERO OPTION 3 · MATRIX / HACKER VIBE ===== -->
 <!-- Preview this file in VS Code (Ctrl+Shift+V) or on GitHub to see it rendered -->
 
 <div align="center">
 
-<!-- 🌌 GLOWING CAPSULE BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00F7FF,50:7B2FF7,100:F222FF&height=120&section=header&text=FAHID%20HASAN%20FUAD&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=58" width="100%"/>
-
-<!-- ⚡ ANIMATED SUBTITLE -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2600&pause=800&color=00F7FF&center=true&vCenter=true&width=820&height=55&lines=%3C+Software+Engineer+%2F+%3E;Frontend+%E2%9A%A1+Backend+%E2%9A%A1+AI+Integration;Building+Scalable+%26+Engaging+Experiences" alt="Subtitle" />
+<!-- 🟩 MATRIX-STYLE GLITCH HEADER -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=30&duration=2400&pause=700&color=00FF66&center=true&vCenter=true&width=900&height=110&lines=01000110+FAHID+01000110;%3E+decrypting+profile...;%3E+access%3A+GRANTED+%E2%9C%93;Software+Engineer+%2F%2F+Builder" alt="Matrix header" />
 
 </div>
 
-<br/>
-
-<!-- 💎 GLASS STAT CHIPS -->
+<!-- 🖤 HACKER TERMINAL BLOCK -->
 <div align="center">
 
-<img src="https://img.shields.io/badge/◆_Frontend-00F7FF?style=for-the-badge&labelColor=0D1117" alt="Frontend" />
-<img src="https://img.shields.io/badge/◆_Backend-7B2FF7?style=for-the-badge&labelColor=0D1117" alt="Backend" />
-<img src="https://img.shields.io/badge/◆_AI_Integration-F222FF?style=for-the-badge&labelColor=0D1117" alt="AI" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/🟢_Open_to_Work-0D1117?style=for-the-badge&logoColor=00F7FF" alt="Open to Work" />
-<img src="https://komarev.com/ghpvc/?username=Fahid24&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" alt="Views" />
+```
+╔══════════════════════════════════════════════╗
+║  > root@fahid:~# ./decrypt --identity          ║
+║  ............................. [ DONE ]         ║
+║                                                ║
+║   NAME   ::  Fahid Hasan Fuad                   ║
+║   ROLE   ::  Software Engineer                  ║
+║   STACK  ::  React · Next.js · Node · FastAPI   ║
+║   MODE   ::  Frontend // Backend // AI          ║
+║   STATUS ::  [ ONLINE ] 🟢                       ║
+║                                                ║
+║  > access granted. welcome, developer. ⚡       ║
+╚══════════════════════════════════════════════╝
+```
 
 </div>
 
-<br/>
-
-<!-- ⚡ NEON DIVIDER -->
+<!-- 🟩 GREEN MATRIX DIVIDER -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2FF7,100:F222FF&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003B00,50:00FF66,100:003B00&height=3&section=header" width="100%"/>
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/>_FRONTEND-00FF66?style=flat-square&labelColor=000000" alt="Frontend" />
+<img src="https://img.shields.io/badge/>_BACKEND-00FF66?style=flat-square&labelColor=000000" alt="Backend" />
+<img src="https://img.shields.io/badge/>_AI-00FF66?style=flat-square&labelColor=000000" alt="AI" />
+<img src="https://komarev.com/ghpvc/?username=Fahid24&style=flat-square&color=00FF66&label=ACCESS+COUNT" alt="Access count" />
+
 </div>
